@@ -26,5 +26,5 @@
 <p>1. Clone the repository to your machine</p>
 
 ```
-git clone https://github.com/gabrielamylonas/Personal-project
+git clone https://github.com/gabrielamylonas/Todo-app
 ```
